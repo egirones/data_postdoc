@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-**/pdf/.
-**/txt/.
+**/pdf/*
+**/txt/*
 **/entries.pickle
 **/entries_to_check.pickle
 
