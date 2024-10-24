@@ -1,0 +1,371 @@
+	name	relevant	amsterdam	rotterdam	national
+19	Aalsmeer	m_amsterdam	1	0	0
+143	Aalten	0	0	0	0
+216	Achtkarspelen	0	0	0	0
+137	Alblasserdam	0	0	0	0
+230	Albrandswaard	m_rotterdam	0	1	0
+200	Alkmaar	0	0	0	0
+261	Almelo	0	0	0	0
+194	Almere	m_amsterdam	1	0	0
+27	Alphen aan den Rijn	0	0	0	0
+330	Alphen-Chaam	0	0	0	0
+53	Altena	0	0	0	0
+254	Ameland	0	0	0	0
+169	Amersfoort	0	0	0	0
+1	ams	amsterdam	1	0	0
+204	Amstelveen	m_amsterdam	1	0	0
+145	Amsterdam	amsterdam	1	0	0
+32	Apeldoorn	0	0	0	0
+205	Arnhem	0	0	0	0
+185	Asten	0	0	0	0
+328	Baarle-Nassau	0	0	0	0
+63	Barendrecht	m_rotterdam	0	1	0
+161	Barneveld	0	0	0	0
+162	Beek	0	0	0	0
+201	Beekdaelen	0	0	0	0
+289	Beesel	0	0	0	0
+266	Berg en Dal	0	0	0	0
+47	Bergeijk	0	0	0	0
+312	Bergen (L)	0	0	0	0
+171	Bergen (NH)	0	0	0	0
+231	Bergen op Zoom	0	0	0	0
+121	Berkelland	0	0	0	0
+338	Bernheze	0	0	0	0
+234	Best	0	0	0	0
+287	Beuningen	0	0	0	0
+252	Beverwijk	m_amsterdam	1	0	0
+260	Bladel	0	0	0	0
+135	Blaricum	m_amsterdam	1	0	0
+255	Bloemendaal	amsterdam	1	0	0
+229	Bodegraven-Reeuwijk	0	0	0	0
+267	Boekel	0	0	0	0
+141	Borger-Odoorn	0	0	0	0
+49	Borne	0	0	0	0
+318	Borsele	0	0	0	0
+342	Boxmeer	0	0	0	0
+7	Boxtel	0	0	0	0
+33	Breda	0	0	0	0
+26	Bronckhorst	0	0	0	0
+157	Brummen	0	0	0	0
+48	Brunssum	0	0	0	0
+282	Bunnik	0	0	0	0
+326	Bunschoten	0	0	0	0
+251	Buren	0	0	0	0
+106	Capelle aan den IJssel	m_rotterdam	0	1	0
+173	Castricum	0	0	0	0
+152	Coevorden	0	0	0	0
+220	Cranendonck	0	0	0	0
+239	Dalfsen	0	0	0	0
+202	Dantumadiel	0	0	0	0
+130	DCMR Milieudienst Rijnmond	0	0	0	0
+61	De Bilt	0	0	0	0
+24	De Fryske Marren	0	0	0	0
+43	De Ronde Venen	0	0	0	0
+82	De Wolden	0	0	0	0
+320	Delft	m_rotterdam	0	1	0
+276	Den Helder	0	0	0	0
+215	Deurne	0	0	0	0
+88	Deventer	0	0	0	0
+126	Diemen	m_amsterdam	1	0	0
+155	Dijk en Waard	0	0	0	0
+29	Dinkelland	0	0	0	0
+4	Doesburg	0	0	0	0
+132	Doetinchem	0	0	0	0
+319	Dongen	0	0	0	0
+68	Dordrecht	m_rotterdam	0	1	0
+186	Drechterland	0	0	0	0
+13	Drenthe	0	0	0	0
+306	Drimmelen	0	0	0	0
+310	Dronten	0	0	0	0
+272	Druten	0	0	0	0
+243	Duiven	0	0	0	0
+107	Ede	0	0	0	0
+309	Eemsdelta	0	0	0	0
+50	Eersel	0	0	0	0
+362	Eerste Kamer	national	0	0	1
+51	Eindhoven	0	0	0	0
+244	Elburg	0	0	0	0
+233	Emmen	0	0	0	0
+187	Enkhuizen	0	0	0	0
+166	Enschede	0	0	0	0
+15	Epe	0	0	0	0
+344	Ermelo	0	0	0	0
+84	Etten-Leur	0	0	0	0
+184	Flevoland	0	0	0	0
+62	Fryslân	0	0	0	0
+324	Geertruidenberg	0	0	0	0
+57	Gelderland	0	0	0	0
+314	Geldrop-Mierlo	0	0	0	0
+146	Gemert-Bakel	0	0	0	0
+340	Gilze en Rijen	0	0	0	0
+218	Goeree-Overflakkee	0	0	0	0
+346	Goes	0	0	0	0
+313	Gooise Meren	m_amsterdam	1	0	0
+213	Gorinchem	0	0	0	0
+16	Gouda	0	0	0	0
+93	Groningen	0	0	0	0
+268	Haaksbergen	0	0	0	0
+181	Haarlem	m_amsterdam	1	0	0
+108	Haarlemmermeer	m_amsterdam	1	0	0
+79	Halderberge	0	0	0	0
+214	Hardenberg	0	0	0	0
+127	Harderwijk	0	0	0	0
+18	Hardinxveld-Giessendam	0	0	0	0
+286	Harlingen	0	0	0	0
+232	Heemskerk	m_amsterdam	1	0	0
+199	Heemstede	m_amsterdam	1	0	0
+336	Heerde	0	0	0	0
+17	Heerenveen	0	0	0	0
+341	Heerhugowaard	0	0	0	0
+74	Heerlen	0	0	0	0
+30	Heeze-Leende	0	0	0	0
+172	Heiloo	0	0	0	0
+285	Hellendoorn	0	0	0	0
+317	Hellevoetsluis	0	0	0	0
+307	Helmond	0	0	0	0
+334	Hendrik-Ido-Ambacht	0	0	0	0
+197	Hengelo	0	0	0	0
+116	Het Hogeland	0	0	0	0
+198	Heumen	0	0	0	0
+302	Heusden	0	0	0	0
+183	Hillegom	0	0	0	0
+96	Hilversum	m_amsterdam	1	0	0
+288	Hoeksche Waard	0	0	0	0
+253	Hof van Twente	0	0	0	0
+28	Hollands Kroon	0	0	0	0
+81	Hoogeveen	0	0	0	0
+154	Hoogheemraadschap De Stichtse Rijnlanden	m_rotterdam	0	1	0
+182	Hoogheemraadschap Hollands Noorderkwartier	m_amsterdam	1	0	0
+247	Hoogheemraadschap van Delfland	m_rotterdam	0	1	0
+237	Hoogheemraadschap van Rijnland	0	0	0	0
+113	Hoogheemraadschap van Schieland en de Krimpenerwaard	m_rotterdam	0	1	0
+174	Hoorn	0	0	0	0
+290	Horst aan de Maas	0	0	0	0
+159	Houten	0	0	0	0
+193	Hulst	0	0	0	0
+339	IJsselstein	0	0	0	0
+207	Kaag en Braassem	0	0	0	0
+210	Kampen	0	0	0	0
+73	Kapelle	0	0	0	0
+175	Katwijk	0	0	0	0
+71	Kerkrade	0	0	0	0
+45	Krimpen aan den IJssel	m_rotterdam	0	1	0
+25	Krimpenerwaard	0	0	0	0
+44	Land van Cuijk	0	0	0	0
+83	Landgraaf	0	0	0	0
+296	Landsmeer	m_amsterdam	1	0	0
+351	Langedijk	0	0	0	0
+140	Lansingerland	m_rotterdam	0	1	0
+58	Laren	m_amsterdam	1	0	0
+139	Leeuwarden	0	0	0	0
+89	Leiden	0	0	0	0
+176	Leidschendam-Voorburg	m_rotterdam	0	1	0
+354	Lelystad	m_amsterdam	1	0	0
+90	Leudal	0	0	0	0
+112	Leusden	0	0	0	0
+3	Limburg	0	0	0	0
+119	Lingewaard	0	0	0	0
+327	Lisse	0	0	0	0
+177	Lochem	0	0	0	0
+329	Loon op Zand	0	0	0	0
+129	Lopik	0	0	0	0
+332	Losser	0	0	0	0
+122	Maasdriel	0	0	0	0
+240	Maasgouw	0	0	0	0
+21	Maashorst	0	0	0	0
+142	Maassluis	m_rotterdam	0	1	0
+304	Maastricht	0	0	0	0
+86	Medemblik	0	0	0	0
+236	Meerssen	0	0	0	0
+221	Meierijstad	0	0	0	0
+274	Meppel	0	0	0	0
+281	Middelburg	0	0	0	0
+256	Midden-Delfland	m_rotterdam	0	1	0
+150	Midden-Drenthe	0	0	0	0
+75	Midden-Groningen	0	0	0	0
+366	Ministerie van Algemene Zaken	national	0	0	1
+2	Ministerie van Binnenlandse Zaken en Koninkrijksrelaties	national	0	0	1
+148	Ministerie van Buitenlandse Zaken	national	0	0	1
+368	Ministerie van Defensie	national	0	0	1
+37	Ministerie van Economische Zaken	national	0	0	1
+189	Ministerie van Economische Zaken en Klimaat	national	0	0	1
+363	Ministerie van Financiën	national	0	0	1
+8	Ministerie van Infrastructuur en Waterstaat	national	0	0	1
+369	Ministerie van Justitie en Veiligheid	national	0	0	1
+91	"Ministerie van Landbouw, Natuur en Voedselkwaliteit"	national	0	0	1
+246	"Ministerie van Onderwijs, Cultuur en Wetenschap"	national	0	0	1
+365	Ministerie van Sociale Zaken en Werkgelegenheid	national	0	0	1
+245	"Ministerie van Volksgezondheid, Welzijn en Sport"	national	0	0	1
+31	Moerdijk	0	0	0	0
+294	Molenlanden	0	0	0	0
+258	Montferland	0	0	0	0
+120	Neder-Betuwe	0	0	0	0
+208	Nederlandse Organisatie voor Wetenschappelijk Onderzoek	national	0	0	1
+78	Nederweert	0	0	0	0
+349	NEN	national	0	0	1
+97	Nieuwegein	0	0	0	0
+66	Nieuwkoop	0	0	0	0
+219	Nijkerk	0	0	0	0
+297	Nijmegen	0	0	0	0
+117	Nissewaard	m_rotterdam	0	1	0
+206	Noardeast-Fryslân	0	0	0	0
+124	Noord-Beveland	0	0	0	0
+87	Noord-Brabant	0	0	0	0
+52	Noord-Holland	r_amsterdam	1	0	0
+335	Noordenveld	0	0	0	0
+263	Noordoostpolder	0	0	0	0
+65	"Nuenen, Gerwen en Nederwetten"	0	0	0	0
+299	Nunspeet	0	0	0	0
+5	Oegstgeest	0	0	0	0
+331	Oirschot	0	0	0	0
+41	Oisterwijk	0	0	0	0
+337	Oldambt	0	0	0	0
+295	Oldebroek	0	0	0	0
+227	Oldenzaal	0	0	0	0
+305	Olst-Wijhe	0	0	0	0
+367	Omgevingsdienst Midden-Holland	0	0	0	0
+144	Ommen	0	0	0	0
+364	Onbekende organisatie	national	0	0	1
+40	Oost Gelre	0	0	0	0
+14	Oosterhout	0	0	0	0
+147	Ooststellingwerf	0	0	0	0
+355	Oostzaan	m_amsterdam	1	0	0
+12	Opmeer	0	0	0	0
+352	Opsterland	0	0	0	0
+60	Oss	0	0	0	0
+284	Oude IJsselstreek	0	0	0	0
+170	Ouder-Amstel	m_amsterdam	1	0	0
+265	Oudewater	0	0	0	0
+55	Overbetuwe	0	0	0	0
+138	Overijssel	0	0	0	0
+271	Papendrecht	0	0	0	0
+22	Peel en Maas	0	0	0	0
+160	Pijnacker-Nootdorp	m_rotterdam	0	1	0
+168	provincie Drenthe	0	0	0	0
+264	provincie Zeeland	0	0	0	0
+94	Purmerend	m_amsterdam	1	0	0
+228	Putten	0	0	0	0
+333	Raalte	0	0	0	0
+123	Reimerswaal	0	0	0	0
+222	Renkum	0	0	0	0
+322	Renswoude	0	0	0	0
+54	Reusel-De Mierden	0	0	0	0
+133	Rheden	0	0	0	0
+279	Rhenen	0	0	0	0
+67	Ridderkerk	0	0	0	0
+360	Rijkswaterstaat	national	0	0	1
+80	Rijssen-Holten	0	0	0	0
+321	Rijswijk	0	0	0	0
+226	Roermond	0	0	0	0
+77	Roosendaal	0	0	0	0
+0	rot	rotterdam	0	1	0
+38	Rotterdam	rotterdam	0	1	0
+311	Rucphen	0	0	0	0
+109	s-Gravenhage	m_rotterdam	0	1	0
+225	s-Hertogenbosch	0	0	0	0
+158	Súdwest-Fryslân	0	0	0	0
+102	Schagen	0	0	0	0
+242	Scherpenzeel	0	0	0	0
+163	Schiedam	0	0	0	0
+9	Schiermonnikoog	0	0	0	0
+323	Schouwen-Duiveland	0	0	0	0
+167	Simpelveld	0	0	0	0
+6	Sint-Michielsgestel	0	0	0	0
+131	Sittard-Geleen	0	0	0	0
+59	Sliedrecht	0	0	0	0
+114	Sluis	0	0	0	0
+115	Smallingerland	0	0	0	0
+56	Soest	0	0	0	0
+269	Son en Breugel	0	0	0	0
+259	Staphorst	0	0	0	0
+188	Stede Broec	0	0	0	0
+39	Steenbergen	0	0	0	0
+238	Steenwijkerland	0	0	0	0
+209	Terneuzen	0	0	0	0
+164	Texel	0	0	0	0
+103	Teylingen	0	0	0	0
+34	Tholen	0	0	0	0
+343	Tiel	0	0	0	0
+101	Tilburg	0	0	0	0
+35	Tubbergen	0	0	0	0
+361	Tweede Kamer	national	0	0	1
+95	Twenterand	0	0	0	0
+248	Tynaarlo	0	0	0	0
+217	Tytsjerksteradiel	0	0	0	0
+357	Uden	0	0	0	0
+156	Uitgeest	m_amsterdam	1	0	0
+20	Uithoorn	m_amsterdam	1	0	0
+350	Urk	0	0	0	0
+36	Utrecht	0	0	0	0
+250	Utrechtse Heuvelrug	0	0	0	0
+179	Valkenburg aan de Geul	0	0	0	0
+110	Valkenswaard	0	0	0	0
+11	Veenendaal	0	0	0	0
+191	Veere	0	0	0	0
+125	Veiligheidsregio en Gemeentelijke Gezondheidsdienst Limburg-Noord	0	0	0	0
+345	Veiligheidsregio Zaanstreek-Waterland	0	0	0	0
+308	Veldhoven	0	0	0	0
+195	Venlo	0	0	0	0
+192	Venray	0	0	0	0
+134	Vijfheerenlanden	0	0	0	0
+151	Vlaardingen	0	0	0	0
+203	Vlieland	0	0	0	0
+149	Vlissingen	0	0	0	0
+262	Voerendaal	0	0	0	0
+257	Voorne aan Zee	m_rotterdam	0	1	0
+283	Voorschoten	0	0	0	0
+292	Voorst	0	0	0	0
+165	Vught	0	0	0	0
+100	Waadhoeke	0	0	0	0
+358	Waalre	0	0	0	0
+85	Waalwijk	0	0	0	0
+111	Waddinxveen	0	0	0	0
+196	Wageningen	0	0	0	0
+224	Wassenaar	m_rotterdam	0	1	0
+92	Waterschap Aa en Maas	0	0	0	0
+315	"Waterschap Amstel, Gooi en Vecht"	national	0	0	1
+273	Waterschap Brabantse Delta	0	0	0	0
+291	Waterschap De Dommel	0	0	0	0
+278	Waterschap Drents Overijsselse Delta	0	0	0	0
+46	Waterschap Hollandse Delta	national	0	0	1
+249	Waterschap Limburg	0	0	0	0
+178	Waterschap Rivierenland	0	0	0	0
+348	Waterschap Scheldestromen	0	0	0	0
+277	Waterschap Vallei en Veluwe	0	0	0	0
+128	Waterschap Vechtstromen	0	0	0	0
+190	Waterschap Zuiderzeeland	0	0	0	0
+70	Weert	0	0	0	0
+303	Werkorganisatie BUCH	0	0	0	0
+136	West Betuwe	0	0	0	0
+359	West Maas en Waal	0	0	0	0
+104	Westerkwartier	0	0	0	0
+301	Westerveld	0	0	0	0
+241	Westervoort	0	0	0	0
+353	Westerwolde	0	0	0	0
+235	Westland	m_rotterdam	0	1	0
+316	Westvoorne	0	0	0	0
+72	Wetterskip Fryslân	0	0	0	0
+118	Wierden	0	0	0	0
+275	Wijchen	0	0	0	0
+280	Wijk bij Duurstede	0	0	0	0
+211	Winterswijk	0	0	0	0
+298	Woensdrecht	0	0	0	0
+270	Woerden	0	0	0	0
+356	Wormerland	m_amsterdam	1	0	0
+180	Woudenberg	0	0	0	0
+69	Zaanstad	m_amsterdam	1	0	0
+10	Zaltbommel	0	0	0	0
+99	Zandvoort	m_amsterdam	1	0	0
+42	Zeeland	0	0	0	0
+153	Zeewolde	0	0	0	0
+293	Zeist	0	0	0	0
+98	Zevenaar	0	0	0	0
+212	Zoetermeer	m_rotterdam	0	1	0
+300	Zoeterwoude	0	0	0	0
+23	Zuid-Holland	r_amsterdam	1	0	0
+76	Zuidplas	0	0	0	0
+223	Zundert	0	0	0	0
+105	Zutphen	0	0	0	0
+347	Zwartewaterland	0	0	0	0
+325	Zwijndrecht	0	0	0	0
+64	Zwolle	0	0	0	0

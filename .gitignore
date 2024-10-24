@@ -11,6 +11,9 @@ __pycache__/
 **/entries.pickle
 **/entries_to_check.pickle
 
+**/embeddings/*
+**/raw/*
+
 # Distribution / packaging
 .Python
 build/
